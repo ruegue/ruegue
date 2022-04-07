@@ -7,6 +7,8 @@
 
 견고하고 빠르며 논리적인 웹사이트를 만드는 백엔드 개발자가 되는것이 목표입니다.  
 
+:email: mykgj777@naver.com
+
 ### Tools :computer:  
 
 #### Backend
